@@ -20,7 +20,7 @@
 
 
 - Crie um Alias no .Bash para rodar Sail Artisan:
-<br>
+
     alias sail='bash vendor/bin/sail'
 
 - Crie e Execute os containers do Docker:
