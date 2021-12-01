@@ -13,11 +13,11 @@
 ### Setup
 
 - Clone a aplicação em seguida renomear .env.example para .env e instalar as dependencias do projeto:
-<br>
+
     sudo npm install
 <br>
     sudo npm run dev
-<br>
+
 
 - Crie um Alias no .Bash para rodar Sail Artisan:
 <br>
