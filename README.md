@@ -17,11 +17,11 @@
     sudo npm install
 <br>
     sudo npm run dev
-<br>
+
 - Crie um Alias no .Bash para rodar Sail Artisan:
 <br>
     alias sail='bash vendor/bin/sail'
-<br>
+
 - Crie e Execute os containers do Docker:
     sail up -d
 <br>
