@@ -17,6 +17,7 @@
     sudo npm install
 <br>
     sudo npm run dev
+<br>
 
 - Crie um Alias no .Bash para rodar Sail Artisan:
 <br>
