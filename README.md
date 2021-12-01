@@ -15,7 +15,7 @@
 - Clone a aplicação em seguida renomear .env.example para .env e instalar as dependencias do projeto:
 
     sudo npm install
-<br>
+
     sudo npm run dev
 
 
