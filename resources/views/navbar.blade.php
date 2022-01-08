@@ -17,7 +17,7 @@
     <nav class="navbar bg-secondary">
         <div class="container-fluid">
             <div class="navbar-header">
-                <a class="navbar-brand" href="/">W2O</a>
+                <a class="navbar-brand" href="/">Catalogo - Farol Acessórios automotivos</a>
             </div>
             <ul class="text-light nav navbar-nav">
                 <li class="active"><a href="{{ route('companyIndex') }}">Cadastro Empresarial</a></li>
